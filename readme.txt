@@ -5,3 +5,5 @@ Testing for the new dvision.
 Testing for conflics ,this is feature1 changes.
 two division and two mode.
 testing for fast merge.
+tesing for creating new branch for debuging.
+testing for new line no adding to stage.
